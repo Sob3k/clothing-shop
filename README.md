@@ -1,3 +1,16 @@
+Clothing shop created in React
+
+Live demo: https://clothsh-live.herokuapp.com/
+
+Preview:
+
+![Main page](https://i.imgur.com/52ezs3J.jpg)
+
+![Collection page](https://i.imgur.com/3hEpYXV.jpg)
+
+![Checkout page](https://i.imgur.com/PMjD4O7.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
